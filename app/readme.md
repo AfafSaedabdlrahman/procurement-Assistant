@@ -1,26 +1,51 @@
+# Chatbot Application
 
+This repository hosts a chatbot application built with FastAPI and Streamlit for interacting with a dataset.
 
-## How to start the chatbot
+---
 
-First run the fastapi server
+## Table of Contents
+1. [Getting Started](#getting-started)
+2. [Using the Chatbot](#using-the-chatbot)
+3. [Dataset Details](#dataset-details)
+
+---
+
+## Getting Started
+
+Follow the steps below to set up and run the chatbot application:
+
+### 1. Start the FastAPI Server
+Navigate to the `chatbot` directory and run the following command to start the FastAPI backend server:
 
 ```bash
 cd chatbot
 uvicorn main:app --reload
 ```
 
-Afterwards, run the streamlit app
+### 2. Run the Streamlit App
+After starting the server, navigate to the same directory and launch the Streamlit application with the command:
 
 ```bash
-cd chatbot
 streamlit run chatbot_app.py
 ```
 
-Visit http://localhost:8501/ to view the app
+### 3. Access the Application
+Open your browser and visit [http://localhost:8501/](http://localhost:8501/) to access the chatbot interface.
 
+---
 
-## Guide to use the chatbot
+## Using the Chatbot
 
-Feel free to ask any questions related to the dataset. I have provided the "User_Queries_Test" file, which contains various use case queries. You can test your questions with it.
+The chatbot is designed to answer questions related to the dataset:
 
-[Dataset Details](https://github.com/AfafSaedabdlrahman/procurement-Chatbot/blob/main/DataSet/dataset.md)
+- You can test its functionality using queries provided in the `User_Queries_Test` file, which contains various sample use cases.
+- Feel free to explore the dataset by asking any relevant questions directly through the chatbot interface.
+
+---
+
+## Dataset Details
+
+The dataset used in this project contains valuable information for chatbot interactions. For more details, refer to the [Dataset Documentation](https://github.com/AfafSaedabdlrahman/procurement-Chatbot/blob/main/DataSet/dataset.md).
+
+---
