@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 ## Run the App
 
-You can run the chatbot application by following the instructions provided in the [Run Chatbot Guide](chatbot/readme.md).
+You can run the chatbot application by following the instructions provided in the [Run Chatbot Guide](app/readme.md).
 
 ---
 
