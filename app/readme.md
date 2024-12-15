@@ -23,4 +23,4 @@ Visit http://localhost:8501/ to view the app
 
 Feel free to ask any questions related to the dataset. I have provided the "User_Queries_Test" file, which contains various use case queries. You can test your questions with it.
 
-[Dataset Details](../dataset.md)
+[Dataset Details](https://github.com/AfafSaedabdlrahman/procurement-Chatbot/blob/main/DataSet/dataset.md)
