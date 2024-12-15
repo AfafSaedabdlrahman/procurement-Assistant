@@ -8,7 +8,7 @@ The **LLM-Powered Procurement Chatbot (BuyBot)** is an AI-based procurement assi
 
 ## Demo
 
-![Chatbot UI](https://drive.google.com/file/d/1Bdt5IwgrxygklByiOcchDbMcpn31pg9x/view?usp=sharing)
+[Chatbot UI](https://drive.google.com/file/d/1Bdt5IwgrxygklByiOcchDbMcpn31pg9x/view?usp=sharing)
 
 ---
 
