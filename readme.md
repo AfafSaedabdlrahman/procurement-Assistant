@@ -104,7 +104,7 @@ The project focuses on improving the performance of the **BuyBot** AI assistant 
 
 ### 3. Improved Response Formatting
 
-- Developed a function to process and structure responses for better readability.
+- Developed an endpoint to process and structure responses retrieved from an LLM, enhancing readability.
 
 **Outcome:** A significant improvement in the assistant's accuracy, relevance, and user-friendliness.
 
