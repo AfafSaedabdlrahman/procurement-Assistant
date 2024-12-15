@@ -39,7 +39,7 @@ Open your browser and visit [http://localhost:8501/](http://localhost:8501/) to 
 
 The chatbot is designed to answer questions related to the dataset:
 
-- You can test its functionality using queries provided in the `User_Queries_Test` file, which contains various sample use cases.
+- You can test its functionality using queries provided in the [`User_Queries_Test`](https://github.com/AfafSaedabdlrahman/procurement-Chatbot/blob/main/app/User_Queries_Test.txt) file, which contains various sample use cases.
 - Feel free to explore the dataset by asking any relevant questions directly through the chatbot interface.
 
 ---
