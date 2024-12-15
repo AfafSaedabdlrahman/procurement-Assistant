@@ -21,6 +21,6 @@ Visit http://localhost:8501/ to view the app
 
 ## Guide to use the chatbot
 
-You can ask any question related to the dataset. the limit is only your imagination!
+Feel free to ask any questions related to the dataset. I have provided the "User_Queries_Test" file, which contains various use case queries. You can test your questions with it.
 
 [Dataset Details](../dataset.md)
