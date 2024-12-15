@@ -30,7 +30,7 @@ You can run the chatbot application by following the instructions provided in th
 
 ## Project Contents
 
-- **[Dataset Details](dataset.md):** Detailed profiling of the dataset is available in the `insights/` directory.
+- **[Dataset Details](https://github.com/AfafSaedabdlrahman/procurement-Chatbot/tree/main/DataSet):** Detailed profiling of the dataset is available in the `insights/` directory.
 - **EDA and Model Development:** Located in the `app/` directory.
 
 ---
