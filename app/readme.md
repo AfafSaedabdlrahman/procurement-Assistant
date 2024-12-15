@@ -1,4 +1,4 @@
-# Churn Chatbot
+# procurement Chatbot
 
 ## How to start the chatbot
 
